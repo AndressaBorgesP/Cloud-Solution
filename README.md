@@ -14,5 +14,5 @@ Este time ficou comprometido em aplicar as melhores práticas de gerenciamento d
 
 ## Mais Informações
 
-Para mais detalhes sobre o projeto e informações adicionais, consulte a [Documentação do Projeto](link-para-a-documentacao).
+Para mais detalhes sobre o projeto e informações adicionais, consulte a [Documentação do Projeto](https://github.com/AndressaBorgesP/Cloud-Solution/blob/main/TAP.pdf).
 
